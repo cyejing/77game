@@ -1,2 +1,2 @@
 # 77game
-Fun little game, made during my college days.
+Fun little game, Made during my college days.
